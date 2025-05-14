@@ -7,7 +7,7 @@ const Navbar = () => {
             <div className="navbar-container">
                 <div className="logo-container">
                     <img
-                        src="/src/assets/studio52.png"
+                        src="public/assets/studio52.png"
                         alt="Studio 52"
                         className="logo"
                     />

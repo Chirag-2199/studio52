@@ -13,9 +13,9 @@ const HeroSection = () => {
                     From cinematic storytelling to high-quality audio production, we craft compelling content that captivates audiences and elevates brands.
                 </p>
                 <div className="image-grid">
-                    <img src="src/assets/image1.png" alt="workers" className="gallery-image left-image" />
-                    <img src="src/assets/image2.png" alt="scene" className="gallery-image center-image" />
-                    <img src="src/assets/image3.png" alt="drone" className="gallery-image right-image" />
+                    <img src="public\assets\image1.png" alt="workers" className="gallery-image left-image" />
+                    <img src="public/assets/image2.png" alt="scene" className="gallery-image center-image" />
+                    <img src="public/assets/image3.png" alt="drone" className="gallery-image right-image" />
                 </div>
                 <button className="cta-button">
                     Connect With us
